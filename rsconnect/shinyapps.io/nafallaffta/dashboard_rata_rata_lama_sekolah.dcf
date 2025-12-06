@@ -1,0 +1,13 @@
+name: dashboard_rata_rata_lama_sekolah
+title:
+username: nafallaffta
+account: nafallaffta
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15851185
+bundleId: 11113155
+url: https://nafallaffta.shinyapps.io/dashboard_rata_rata_lama_sekolah/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RDataTmp

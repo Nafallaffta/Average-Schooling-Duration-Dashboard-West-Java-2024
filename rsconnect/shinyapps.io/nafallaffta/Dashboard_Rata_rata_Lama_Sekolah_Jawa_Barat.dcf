@@ -1,0 +1,12 @@
+name: Dashboard_Rata_rata_Lama_Sekolah_Jawa_Barat
+title: Dashboard_Rata_rata_Lama_Sekolah_Jawa_Barat
+username: nafallaffta
+account: nafallaffta
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15928576
+bundleId: 11113086
+url: https://nafallaffta.shinyapps.io/Dashboard_Rata_rata_Lama_Sekolah_Jawa_Barat/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
